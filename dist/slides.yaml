@@ -67,6 +67,8 @@ slides:
     file: "slides/lmloverview.html"
   - title: "Drug Pipeline"
     file: "slides/drugpipeline.html"
+  - title: "Tree of Life"
+    file: "slides/treeoflife.html"
   - title: "Brian Mearns"
     file: "slides/brianmearns.html"
   - title: "Closing"
