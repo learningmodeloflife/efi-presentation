@@ -11,14 +11,22 @@ export function initializeSpeechMerge() {
 
     async function mergeTexts(slideElement) {
         const containers = Array.from(slideElement.querySelectorAll('.speech-container'));
-        const speechesContainer = slideElement.querySelector('.speeches-container');
         
-        // Get all text content and split into words
-        const allWords = containers.map(container => 
-            container.textContent.trim().split(/\s+/)
-        ).flat();
+        // First, set the initial colors for each container
+        containers[0].style.color = '#011627';
+        containers[1].style.color = '#f71735';
+        containers[2].style.color = '#57886c';
         
-        // Shuffle words
+        // Get all text content and split into words with color information
+        const allWords = containers.map((container, index) => {
+            const words = container.textContent.trim().split(/\s+/);
+            return words.map(word => ({
+                text: word,
+                color: container.style.color
+            }));
+        }).flat();
+        
+        // Shuffle words while preserving their colors
         const shuffledWords = shuffleArray(allWords);
         
         // Create fade out animation
@@ -33,14 +41,16 @@ export function initializeSpeechMerge() {
             }).finished
         ));
 
-        // Prepare merged text in center container
+        // Prepare merged text in center container with preserved colors
         const centerContainer = containers[1];
-        centerContainer.innerHTML = shuffledWords.join(' ');
+        centerContainer.innerHTML = shuffledWords.map(word => 
+            `<span class="word" style="color: ${word.color}">${word.text}</span>`
+        ).join(' ');
         
         // Add merged class to slide for CSS styling
         slideElement.classList.add('merged');
         
-        // Position center container to span full width
+        // Position center container
         centerContainer.style.width = '100%';
         centerContainer.style.position = 'absolute';
         centerContainer.style.left = '50%';
@@ -49,10 +59,6 @@ export function initializeSpeechMerge() {
         // Hide other containers
         containers[0].style.display = 'none';
         containers[2].style.display = 'none';
-        
-        // Adjust speeches container
-        speechesContainer.style.width = '100%';
-        speechesContainer.style.padding = '0 calc(100% / 12)';
         
         // Fade in merged text
         await centerContainer.animate(fadeIn, { 

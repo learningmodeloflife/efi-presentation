@@ -22,7 +22,6 @@
     font-family: var(--playfair) !important;
     font-size: 0.275em !important;
     line-height: 1.2 !important;
-    color: var(--r-heading-color) !important;
     white-space: pre-wrap !important;
     text-align-last: justify !important;
     hyphens: auto !important;
