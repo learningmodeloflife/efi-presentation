@@ -1,0 +1,38 @@
+/* Quote slide specific styles */
+.reveal section.quote-slide {
+    height: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.reveal .quote-slide .quote-container {
+    max-width: 80% !important;
+    text-align: left !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 1.5em !important;
+}
+
+.reveal .quote-slide .quote-text {
+    font-family: var(--playfair) !important;
+    font-size: 1em !important;
+    line-height: 1.4 !important;
+    margin: 0 !important;
+    color: var(--r-heading-color) !important;
+    background: none !important;
+    box-shadow: none !important;
+}
+
+.reveal .quote-slide .quote-attribution {
+    font-family: var(--lato) !important;
+    font-size: 0.6em !important;
+    color: #848484;
+}
+
+/* Prevent styles from leaking */
+section:not(.quote-slide) .quote-container,
+section:not(.quote-slide) .quote-text,
+section:not(.quote-slide) .quote-attribution {
+    all: revert !important;
+}

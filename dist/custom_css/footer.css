@@ -1,0 +1,9 @@
+/**
+ * reveal.js 5.1.0
+ * https://revealjs.com
+ * MIT licensed
+ *
+ * Copyright (C) 2011-2024 Hakim El Hattab, https://hakim.se
+ */
+
+.reveal.loading .footer,.reveal[data-state=closing-slide] .footer,.reveal[data-state=title-slide] .footer{display:none!important}.reveal .footer{position:fixed;bottom:var(--controls-offset);left:calc(var(--controls-offset) * 5);z-index:1000;display:flex;align-items:center;gap:.5em}.reveal .footer .footer-logo{height:var(--footer-height);max-height:.75em;min-height:.25em;width:auto;object-fit:contain}.reveal .footer .footer-text{font-family:var(--lato);font-size:.5em}

@@ -1,0 +1,31 @@
+section.sequencingcosts-slide {
+    height: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+.reveal .sequencingcosts-slide #graph {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    height: 100% !important;
+    width: 100% !important;
+}
+
+.reveal .sequencingcosts-slide .axis path,
+.reveal .sequencingcosts-slide .axis line {
+    stroke: #ccc !important;
+    stroke-width: 1 !important;
+}
+
+.reveal .sequencingcosts-slide .axis text {
+    font-family: Arial, sans-serif !important;
+    font-size: 1em !important;
+    fill: #333 !important;
+}
+
+.reveal .sequencingcosts-slide text {
+    font-family: Arial, sans-serif !important;
+    font-size: 0.4em !important;
+    fill: #333 !important;
+}

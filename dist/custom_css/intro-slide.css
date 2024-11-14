@@ -1,0 +1,9 @@
+/**
+ * reveal.js 5.1.0
+ * https://revealjs.com
+ * MIT licensed
+ *
+ * Copyright (C) 2011-2024 Hakim El Hattab, https://hakim.se
+ */
+
+.reveal section.intro-slide{height:100%!important;display:flex!important;align-items:center!important}.reveal section.intro-slide>div{display:flex!important;flex-direction:column!important;gap:1em!important;padding:2em!important;max-width:100%!important;margin:0 auto!important}.reveal section.intro-slide .image-container{display:flex!important;justify-content:center!important;margin-top:-.5em!important}.reveal section.intro-slide img{max-width:100%!important;height:auto!important;max-height:20vh!important;object-fit:contain!important}.reveal section.intro-slide p{font-family:var(--lato)!important;font-size:1.1rem!important;text-align:left!important;margin:0!important;line-height:1.5!important}.reveal section.intro-slide strong{font-family:var(--playfair)!important;font-weight:700!important}section:not(.intro-slide) .image-container,section:not(.intro-slide) img,section:not(.intro-slide) p,section:not(.intro-slide) strong,section:not(.intro-slide)>div{all:revert!important}

@@ -1,0 +1,4530 @@
+{
+  "nodes": [
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array1",
+      "size": 20,
+      "level": 1
+    },
+
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array",
+      "size": 20,
+      "level": 1
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/threshold",
+      "size": 20,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/array.js",
+      "size": 90,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/ascending.js",
+      "size": 86,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/bisect.js",
+      "size": 238,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/bisector.js",
+      "size": 786,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/constant.js",
+      "size": 72,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/descending.js",
+      "size": 86,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/deviation.js",
+      "size": 135,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/extent.js",
+      "size": 553,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/histogram.js",
+      "size": 1876,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/identity.js",
+      "size": 43,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/max.js",
+      "size": 451,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/mean.js",
+      "size": 362,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/median.js",
+      "size": 452,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/merge.js",
+      "size": 339,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/min.js",
+      "size": 451,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/number.js",
+      "size": 63,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/pairs.js",
+      "size": 182,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/permute.js",
+      "size": 161,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/quantile.js",
+      "size": 416,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/range.js",
+      "size": 344,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/scan.js",
+      "size": 357,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/shuffle.js",
+      "size": 285,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/sum.js",
+      "size": 295,
+      "level": 2
+    },
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/threshold/sturges.js",
+      "size": 96,
+      "level": 3
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/ticks.js",
+      "size": 672,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/transpose.js",
+      "size": 356,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/variance.js",
+      "size": 540,
+      "level": 2
+    },
+
+{
+      "module": "d3-array",
+      "path": "d3/d3-array/zip.js",
+      "size": 99,
+      "level": 2
+    },
+
+
+    {
+      "module": "d3-axis",
+      "path": "d3/d3-axis",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-brush",
+      "path": "d3/d3-brush",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-chord",
+      "path": "d3/d3-chord",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-collection",
+      "path": "d3/d3-collection",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-color",
+      "path": "d3/d3-color",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-dispatch",
+      "path": "d3/d3-dispatch",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-drag",
+      "path": "d3/d3-drag",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-dsv",
+      "path": "d3/d3-dsv",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-ease",
+      "path": "d3/d3-ease",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-force",
+      "path": "d3/d3-force",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-format",
+      "path": "d3/d3-format",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/clip",
+      "size": 20,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/path",
+      "size": 20,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection",
+      "size": 20,
+      "level": 2
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/hierarchy",
+      "size": 20,
+      "level": 2
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/pack",
+      "size": 20,
+      "level": 2
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/treemap",
+      "size": 20,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/transform",
+      "size": 20,
+      "level": 2
+    },
+    {
+      "module": "d3-path",
+      "path": "d3/d3-path",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-polygon",
+      "path": "d3/d3-polygon",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-queue",
+      "path": "d3/d3-queue",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-random",
+      "path": "d3/d3-random",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-request",
+      "path": "d3/d3-request",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection",
+      "size": 20,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve",
+      "size": 20,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/offset",
+      "size": 20,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/order",
+      "size": 20,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/symbol",
+      "size": 20,
+      "level": 2
+    },
+    {
+      "module": "d3-time-format",
+      "path": "d3/d3-time-format",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-timer",
+      "path": "d3/d3-timer",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/selection",
+      "size": 20,
+      "level": 2
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition",
+      "size": 20,
+      "level": 2
+    },
+    {
+      "module": "d3-voronoi",
+      "path": "d3/d3-voronoi",
+      "size": 20,
+      "level": 1
+    },
+    {
+      "module": "d3-zoom",
+      "path": "d3/d3-zoom",
+      "size": 20,
+      "level": 1
+    },
+                                                                                                                            {
+      "module": "d3-axis",
+      "path": "d3/d3-axis/array.js",
+      "size": 42,
+      "level": 2
+    },
+    {
+      "module": "d3-axis",
+      "path": "d3/d3-axis/axis.js",
+      "size": 5239,
+      "level": 2
+    },
+    {
+      "module": "d3-axis",
+      "path": "d3/d3-axis/identity.js",
+      "size": 43,
+      "level": 2
+    },
+    {
+      "module": "d3-brush",
+      "path": "d3/d3-brush/brush.js",
+      "size": 15778,
+      "level": 2
+    },
+    {
+      "module": "d3-brush",
+      "path": "d3/d3-brush/constant.js",
+      "size": 72,
+      "level": 2
+    },
+    {
+      "module": "d3-brush",
+      "path": "d3/d3-brush/event.js",
+      "size": 127,
+      "level": 2
+    },
+    {
+      "module": "d3-brush",
+      "path": "d3/d3-brush/noevent.js",
+      "size": 202,
+      "level": 2
+    },
+    {
+      "module": "d3-chord",
+      "path": "d3/d3-chord/array.js",
+      "size": 42,
+      "level": 2
+    },
+    {
+      "module": "d3-chord",
+      "path": "d3/d3-chord/chord.js",
+      "size": 3178,
+      "level": 2
+    },
+    {
+      "module": "d3-chord",
+      "path": "d3/d3-chord/constant.js",
+      "size": 72,
+      "level": 2
+    },
+    {
+      "module": "d3-chord",
+      "path": "d3/d3-chord/math.js",
+      "size": 159,
+      "level": 2
+    },
+    {
+      "module": "d3-chord",
+      "path": "d3/d3-chord/ribbon.js",
+      "size": 2340,
+      "level": 2
+    },
+    {
+      "module": "d3-collection",
+      "path": "d3/d3-collection/entries.js",
+      "size": 137,
+      "level": 2
+    },
+    {
+      "module": "d3-collection",
+      "path": "d3/d3-collection/keys.js",
+      "size": 104,
+      "level": 2
+    },
+    {
+      "module": "d3-collection",
+      "path": "d3/d3-collection/map.js",
+      "size": 1988,
+      "level": 2
+    },
+    {
+      "module": "d3-collection",
+      "path": "d3/d3-collection/nest.js",
+      "size": 2021,
+      "level": 2
+    },
+    {
+      "module": "d3-collection",
+      "path": "d3/d3-collection/set.js",
+      "size": 800,
+      "level": 2
+    },
+    {
+      "module": "d3-collection",
+      "path": "d3/d3-collection/values.js",
+      "size": 115,
+      "level": 2
+    },
+    {
+      "module": "d3-color",
+      "path": "d3/d3-color/color.js",
+      "size": 9276,
+      "level": 2
+    },
+    {
+      "module": "d3-color",
+      "path": "d3/d3-color/cubehelix.js",
+      "size": 1855,
+      "level": 2
+    },
+    {
+      "module": "d3-color",
+      "path": "d3/d3-color/define.js",
+      "size": 340,
+      "level": 2
+    },
+    {
+      "module": "d3-color",
+      "path": "d3/d3-color/lab.js",
+      "size": 3167,
+      "level": 2
+    },
+    {
+      "module": "d3-color",
+      "path": "d3/d3-color/math.js",
+      "size": 72,
+      "level": 2
+    },
+    {
+      "module": "d3-dispatch",
+      "path": "d3/d3-dispatch/dispatch.js",
+      "size": 2729,
+      "level": 2
+    },
+    {
+      "module": "d3-drag",
+      "path": "d3/d3-drag/constant.js",
+      "size": 72,
+      "level": 2
+    },
+    {
+      "module": "d3-drag",
+      "path": "d3/d3-drag/drag.js",
+      "size": 4297,
+      "level": 2
+    },
+    {
+      "module": "d3-drag",
+      "path": "d3/d3-drag/event.js",
+      "size": 430,
+      "level": 2
+    },
+    {
+      "module": "d3-drag",
+      "path": "d3/d3-drag/nodrag.js",
+      "size": 857,
+      "level": 2
+    },
+    {
+      "module": "d3-drag",
+      "path": "d3/d3-drag/noevent.js",
+      "size": 202,
+      "level": 2
+    },
+    {
+      "module": "d3-dsv",
+      "path": "d3/d3-dsv/csv.js",
+      "size": 199,
+      "level": 2
+    },
+    {
+      "module": "d3-dsv",
+      "path": "d3/d3-dsv/dsv.js",
+      "size": 3582,
+      "level": 2
+    },
+    {
+      "module": "d3-dsv",
+      "path": "d3/d3-dsv/tsv.js",
+      "size": 200,
+      "level": 2
+    },
+    {
+      "module": "d3-ease",
+      "path": "d3/d3-ease/back.js",
+      "size": 653,
+      "level": 2
+    },
+    {
+      "module": "d3-ease",
+      "path": "d3/d3-ease/bounce.js",
+      "size": 521,
+      "level": 2
+    },
+    {
+      "module": "d3-ease",
+      "path": "d3/d3-ease/circle.js",
+      "size": 261,
+      "level": 2
+    },
+    {
+      "module": "d3-ease",
+      "path": "d3/d3-ease/cubic.js",
+      "size": 210,
+      "level": 2
+    },
+    {
+      "module": "d3-ease",
+      "path": "d3/d3-ease/elastic.js",
+      "size": 1309,
+      "level": 2
+    },
+    {
+      "module": "d3-ease",
+      "path": "d3/d3-ease/exp.js",
+      "size": 251,
+      "level": 2
+    },
+    {
+      "module": "d3-ease",
+      "path": "d3/d3-ease/linear.js",
+      "size": 43,
+      "level": 2
+    },
+    {
+      "module": "d3-ease",
+      "path": "d3/d3-ease/poly.js",
+      "size": 596,
+      "level": 2
+    },
+    {
+      "module": "d3-ease",
+      "path": "d3/d3-ease/quad.js",
+      "size": 192,
+      "level": 2
+    },
+    {
+      "module": "d3-ease",
+      "path": "d3/d3-ease/sin.js",
+      "size": 236,
+      "level": 2
+    },
+    {
+      "module": "d3-force",
+      "path": "d3/d3-force/center.js",
+      "size": 654,
+      "level": 2
+    },
+    {
+      "module": "d3-force",
+      "path": "d3/d3-force/collide.js",
+      "size": 2447,
+      "level": 2
+    },
+    {
+      "module": "d3-force",
+      "path": "d3/d3-force/constant.js",
+      "size": 72,
+      "level": 2
+    },
+    {
+      "module": "d3-force",
+      "path": "d3/d3-force/jiggle.js",
+      "size": 69,
+      "level": 2
+    },
+    {
+      "module": "d3-force",
+      "path": "d3/d3-force/link.js",
+      "size": 3213,
+      "level": 2
+    },
+    {
+      "module": "d3-force",
+      "path": "d3/d3-force/manyBody.js",
+      "size": 3181,
+      "level": 2
+    },
+    {
+      "module": "d3-force",
+      "path": "d3/d3-force/simulation.js",
+      "size": 3444,
+      "level": 2
+    },
+    {
+      "module": "d3-force",
+      "path": "d3/d3-force/x.js",
+      "size": 1030,
+      "level": 2
+    },
+    {
+      "module": "d3-force",
+      "path": "d3/d3-force/y.js",
+      "size": 1030,
+      "level": 2
+    },
+    {
+      "module": "d3-format",
+      "path": "d3/d3-format/defaultLocale.js",
+      "size": 361,
+      "level": 2
+    },
+    {
+      "module": "d3-format",
+      "path": "d3/d3-format/exponent.js",
+      "size": 134,
+      "level": 2
+    },
+    {
+      "module": "d3-format",
+      "path": "d3/d3-format/formatDecimal.js",
+      "size": 656,
+      "level": 2
+    },
+    {
+      "module": "d3-format",
+      "path": "d3/d3-format/formatDefault.js",
+      "size": 368,
+      "level": 2
+    },
+    {
+      "module": "d3-format",
+      "path": "d3/d3-format/formatGroup.js",
+      "size": 475,
+      "level": 2
+    },
+    {
+      "module": "d3-format",
+      "path": "d3/d3-format/formatPrefixAuto.js",
+      "size": 611,
+      "level": 2
+    },
+    {
+      "module": "d3-format",
+      "path": "d3/d3-format/formatRounded.js",
+      "size": 458,
+      "level": 2
+    },
+    {
+      "module": "d3-format",
+      "path": "d3/d3-format/formatSpecifier.js",
+      "size": 1589,
+      "level": 2
+    },
+    {
+      "module": "d3-format",
+      "path": "d3/d3-format/formatTypes.js",
+      "size": 846,
+      "level": 2
+    },
+    {
+      "module": "d3-format",
+      "path": "d3/d3-format/locale.js",
+      "size": 5247,
+      "level": 2
+    },
+    {
+      "module": "d3-format",
+      "path": "d3/d3-format/precisionFixed.js",
+      "size": 119,
+      "level": 2
+    },
+    {
+      "module": "d3-format",
+      "path": "d3/d3-format/precisionPrefix.js",
+      "size": 190,
+      "level": 2
+    },
+    {
+      "module": "d3-format",
+      "path": "d3/d3-format/precisionRound.js",
+      "size": 186,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/adder.js",
+      "size": 906,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/area.js",
+      "size": 1958,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/bounds.js",
+      "size": 5361,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/cartesian.js",
+      "size": 929,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/centroid.js",
+      "size": 3816,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/circle.js",
+      "size": 2373,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/clip/antimeridian.js",
+      "size": 2897,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/clip/buffer.js",
+      "size": 470,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/clip/circle.js",
+      "size": 5956,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/clip/extent.js",
+      "size": 5527,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/clip/index.js",
+      "size": 3813,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/clip/line.js",
+      "size": 1099,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/clip/polygon.js",
+      "size": 2802,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/compose.js",
+      "size": 250,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/constant.js",
+      "size": 72,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/distance.js",
+      "size": 229,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/graticule.js",
+      "size": 3034,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/identity.js",
+      "size": 43,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/interpolate.js",
+      "size": 911,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/length.js",
+      "size": 1309,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/math.js",
+      "size": 880,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/noop.js",
+      "size": 34,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/path/area.js",
+      "size": 945,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/path/bounds.js",
+      "size": 485,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/path/centroid.js",
+      "size": 2033,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/path/context.js",
+      "size": 914,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/path/index.js",
+      "size": 1690,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/path/string.js",
+      "size": 1149,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/pointEqual.js",
+      "size": 139,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/polygonContains.js",
+      "size": 2491,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/albers.js",
+      "size": 235,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/albersUsa.js",
+      "size": 3986,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/azimuthal.js",
+      "size": 502,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/azimuthalEqualArea.js",
+      "size": 447,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/azimuthalEquidistant.js",
+      "size": 443,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/conic.js",
+      "size": 402,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/conicConformal.js",
+      "size": 1017,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/conicEqualArea.js",
+      "size": 871,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/conicEquidistant.js",
+      "size": 771,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/cylindricalEqualArea.js",
+      "size": 314,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/equirectangular.js",
+      "size": 253,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/fit.js",
+      "size": 910,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/gnomonic.js",
+      "size": 387,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/identity.js",
+      "size": 1922,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/index.js",
+      "size": 3752,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/mercator.js",
+      "size": 1119,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/orthographic.js",
+      "size": 376,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/resample.js",
+      "size": 3275,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/stereographic.js",
+      "size": 436,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/projection/transverseMercator.js",
+      "size": 762,
+      "level": 3
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/rotation.js",
+      "size": 2509,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/stream.js",
+      "size": 2305,
+      "level": 2
+    },
+    {
+      "module": "d3-geo",
+      "path": "d3/d3-geo/transform.js",
+      "size": 701,
+      "level": 2
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/accessors.js",
+      "size": 166,
+      "level": 2
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/cluster.js",
+      "size": 2093,
+      "level": 2
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/constant.js",
+      "size": 120,
+      "level": 2
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/hierarchy/ancestors.js",
+      "size": 138,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/hierarchy/descendants.js",
+      "size": 121,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/hierarchy/each.js",
+      "size": 381,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/hierarchy/eachAfter.js",
+      "size": 353,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/hierarchy/eachBefore.js",
+      "size": 282,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/hierarchy/index.js",
+      "size": 1819,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/hierarchy/leaves.js",
+      "size": 164,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/hierarchy/links.js",
+      "size": 246,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/hierarchy/path.js",
+      "size": 606,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/hierarchy/sort.js",
+      "size": 151,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/hierarchy/sum.js",
+      "size": 264,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/pack/enclose.js",
+      "size": 2452,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/pack/index.js",
+      "size": 1917,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/pack/shuffle.js",
+      "size": 389,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/pack/siblings.js",
+      "size": 3497,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/partition.js",
+      "size": 1266,
+      "level": 2
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/stratify.js",
+      "size": 1934,
+      "level": 2
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/tree.js",
+      "size": 7060,
+      "level": 2
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/treemap/binary.js",
+      "size": 1184,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/treemap/dice.js",
+      "size": 309,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/treemap/index.js",
+      "size": 2810,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/treemap/resquarify.js",
+      "size": 1029,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/treemap/round.js",
+      "size": 166,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/treemap/slice.js",
+      "size": 309,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/treemap/sliceDice.js",
+      "size": 170,
+      "level": 3
+    },
+    {
+      "module": "d3-hierarchy",
+      "path": "d3/d3-hierarchy/treemap/squarify.js",
+      "size": 1868,
+      "level": 3
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/array.js",
+      "size": 372,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/basis.js",
+      "size": 600,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/basisClosed.js",
+      "size": 360,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/color.js",
+      "size": 697,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/constant.js",
+      "size": 72,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/cubehelix.js",
+      "size": 760,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/date.js",
+      "size": 134,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/hcl.js",
+      "size": 547,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/hsl.js",
+      "size": 547,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/lab.js",
+      "size": 447,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/number.js",
+      "size": 100,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/object.js",
+      "size": 390,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/quantize.js",
+      "size": 163,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/rgb.js",
+      "size": 1277,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/round.js",
+      "size": 112,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/string.js",
+      "size": 1758,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/transform/decompose.js",
+      "size": 672,
+      "level": 3
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/transform/index.js",
+      "size": 2064,
+      "level": 3
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/transform/parse.js",
+      "size": 980,
+      "level": 3
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/value.js",
+      "size": 598,
+      "level": 2
+    },
+    {
+      "module": "d3-interpolate",
+      "path": "d3/d3-interpolate/zoom.js",
+      "size": 1387,
+      "level": 2
+    },
+    {
+      "module": "d3-path",
+      "path": "d3/d3-path/path.js",
+      "size": 4089,
+      "level": 2
+    },
+    {
+      "module": "d3-polygon",
+      "path": "d3/d3-polygon/area.js",
+      "size": 243,
+      "level": 2
+    },
+    {
+      "module": "d3-polygon",
+      "path": "d3/d3-polygon/centroid.js",
+      "size": 346,
+      "level": 2
+    },
+    {
+      "module": "d3-polygon",
+      "path": "d3/d3-polygon/contains.js",
+      "size": 411,
+      "level": 2
+    },
+    {
+      "module": "d3-polygon",
+      "path": "d3/d3-polygon/cross.js",
+      "size": 402,
+      "level": 2
+    },
+    {
+      "module": "d3-polygon",
+      "path": "d3/d3-polygon/hull.js",
+      "size": 1710,
+      "level": 2
+    },
+    {
+      "module": "d3-polygon",
+      "path": "d3/d3-polygon/length.js",
+      "size": 375,
+      "level": 2
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree/add.js",
+      "size": 2441,
+      "level": 2
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree/cover.js",
+      "size": 1667,
+      "level": 2
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree/data.js",
+      "size": 170,
+      "level": 2
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree/extent.js",
+      "size": 206,
+      "level": 2
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree/find.js",
+      "size": 1696,
+      "level": 2
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree/quad.js",
+      "size": 134,
+      "level": 2
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree/quadtree.js",
+      "size": 2077,
+      "level": 2
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree/remove.js",
+      "size": 1898,
+      "level": 2
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree/root.js",
+      "size": 51,
+      "level": 2
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree/size.js",
+      "size": 155,
+      "level": 2
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree/visit.js",
+      "size": 695,
+      "level": 2
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree/visitAfter.js",
+      "size": 773,
+      "level": 2
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree/x.js",
+      "size": 138,
+      "level": 2
+    },
+    {
+      "module": "d3-quadtree",
+      "path": "d3/d3-quadtree/y.js",
+      "size": 138,
+      "level": 2
+    },
+    {
+      "module": "d3-queue",
+      "path": "d3/d3-queue/array.js",
+      "size": 29,
+      "level": 2
+    },
+    {
+      "module": "d3-queue",
+      "path": "d3/d3-queue/queue.js",
+      "size": 2870,
+      "level": 2
+    },
+    {
+      "module": "d3-random",
+      "path": "d3/d3-random/bates.js",
+      "size": 168,
+      "level": 2
+    },
+    {
+      "module": "d3-random",
+      "path": "d3/d3-random/exponential.js",
+      "size": 113,
+      "level": 2
+    },
+    {
+      "module": "d3-random",
+      "path": "d3/d3-random/irwinHall.js",
+      "size": 137,
+      "level": 2
+    },
+    {
+      "module": "d3-random",
+      "path": "d3/d3-random/logNormal.js",
+      "size": 178,
+      "level": 2
+    },
+    {
+      "module": "d3-random",
+      "path": "d3/d3-random/normal.js",
+      "size": 503,
+      "level": 2
+    },
+    {
+      "module": "d3-random",
+      "path": "d3/d3-random/uniform.js",
+      "size": 236,
+      "level": 2
+    },
+    {
+      "module": "d3-request",
+      "path": "d3/d3-request/csv.js",
+      "size": 101,
+      "level": 2
+    },
+    {
+      "module": "d3-request",
+      "path": "d3/d3-request/dsv.js",
+      "size": 517,
+      "level": 2
+    },
+    {
+      "module": "d3-request",
+      "path": "d3/d3-request/html.js",
+      "size": 157,
+      "level": 2
+    },
+    {
+      "module": "d3-request",
+      "path": "d3/d3-request/json.js",
+      "size": 127,
+      "level": 2
+    },
+    {
+      "module": "d3-request",
+      "path": "d3/d3-request/request.js",
+      "size": 4593,
+      "level": 2
+    },
+    {
+      "module": "d3-request",
+      "path": "d3/d3-request/text.js",
+      "size": 109,
+      "level": 2
+    },
+    {
+      "module": "d3-request",
+      "path": "d3/d3-request/tsv.js",
+      "size": 118,
+      "level": 2
+    },
+    {
+      "module": "d3-request",
+      "path": "d3/d3-request/type.js",
+      "size": 370,
+      "level": 2
+    },
+    {
+      "module": "d3-request",
+      "path": "d3/d3-request/xml.js",
+      "size": 174,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/array.js",
+      "size": 90,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/band.js",
+      "size": 2637,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/category10.js",
+      "size": 119,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/category20.js",
+      "size": 179,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/category20b.js",
+      "size": 179,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/category20c.js",
+      "size": 179,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/colors.js",
+      "size": 101,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/constant.js",
+      "size": 72,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/continuous.js",
+      "size": 3328,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/cubehelix.js",
+      "size": 188,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/identity.js",
+      "size": 463,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/linear.js",
+      "size": 1206,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/log.js",
+      "size": 3273,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/nice.js",
+      "size": 340,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/number.js",
+      "size": 44,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/ordinal.js",
+      "size": 1116,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/pow.js",
+      "size": 1000,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/quantile.js",
+      "size": 1280,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/quantize.js",
+      "size": 1066,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/rainbow.js",
+      "size": 536,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/sequential.js",
+      "size": 717,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/threshold.js",
+      "size": 802,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/tickFormat.js",
+      "size": 1203,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/time.js",
+      "size": 4565,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/utcTime.js",
+      "size": 379,
+      "level": 2
+    },
+    {
+      "module": "d3-scale",
+      "path": "d3/d3-scale/viridis.js",
+      "size": 6471,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/constant.js",
+      "size": 72,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/creator.js",
+      "size": 662,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/local.js",
+      "size": 536,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/matcher.js",
+      "size": 533,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/mouse.js",
+      "size": 224,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/namespace.js",
+      "size": 303,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/namespaces.js",
+      "size": 254,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/point.js",
+      "size": 448,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/select.js",
+      "size": 259,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selectAll.js",
+      "size": 282,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/append.js",
+      "size": 235,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/attr.js",
+      "size": 1460,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/call.js",
+      "size": 134,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/classed.js",
+      "size": 1740,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/data.js",
+      "size": 3597,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/datum.js",
+      "size": 132,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/dispatch.js",
+      "size": 869,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/each.js",
+      "size": 289,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/empty.js",
+      "size": 53,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/enter.js",
+      "size": 792,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/exit.js",
+      "size": 176,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/filter.js",
+      "size": 546,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/html.js",
+      "size": 520,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/index.js",
+      "size": 2216,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/insert.js",
+      "size": 468,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/lower.js",
+      "size": 171,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/merge.js",
+      "size": 575,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/node.js",
+      "size": 258,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/nodes.js",
+      "size": 140,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/on.js",
+      "size": 3119,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/order.js",
+      "size": 367,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/property.js",
+      "size": 617,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/raise.js",
+      "size": 138,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/remove.js",
+      "size": 153,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/select.js",
+      "size": 653,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/selectAll.js",
+      "size": 550,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/size.js",
+      "size": 98,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/sort.js",
+      "size": 681,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/sparse.js",
+      "size": 71,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/style.js",
+      "size": 889,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selection/text.js",
+      "size": 528,
+      "level": 3
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selector.js",
+      "size": 152,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/selectorAll.js",
+      "size": 171,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/sourceEvent.js",
+      "size": 175,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/touch.js",
+      "size": 407,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/touches.js",
+      "size": 323,
+      "level": 2
+    },
+    {
+      "module": "d3-selection",
+      "path": "d3/d3-selection/window.js",
+      "size": 218,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/arc.js",
+      "size": 8831,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/area.js",
+      "size": 2917,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/array.js",
+      "size": 42,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/constant.js",
+      "size": 81,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/basis.js",
+      "size": 1436,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/basisClosed.js",
+      "size": 1530,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/basisOpen.js",
+      "size": 1069,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/bundle.js",
+      "size": 1081,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/cardinal.js",
+      "size": 1633,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/cardinalClosed.js",
+      "size": 1605,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/cardinalOpen.js",
+      "size": 1288,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/catmullRom.js",
+      "size": 2637,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/catmullRomClosed.js",
+      "size": 2083,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/catmullRomOpen.js",
+      "size": 1760,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/linear.js",
+      "size": 738,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/linearClosed.js",
+      "size": 514,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/monotone.js",
+      "size": 3203,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/natural.js",
+      "size": 1761,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/radial.js",
+      "size": 655,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/curve/step.js",
+      "size": 1367,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/descending.js",
+      "size": 86,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/identity.js",
+      "size": 43,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/line.js",
+      "size": 1516,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/math.js",
+      "size": 106,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/noop.js",
+      "size": 29,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/offset/expand.js",
+      "size": 319,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/offset/none.js",
+      "size": 310,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/offset/silhouette.js",
+      "size": 314,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/offset/wiggle.js",
+      "size": 740,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/order/ascending.js",
+      "size": 305,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/order/descending.js",
+      "size": 112,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/order/insideOut.js",
+      "size": 545,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/order/none.js",
+      "size": 120,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/order/reverse.js",
+      "size": 97,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/pie.js",
+      "size": 2336,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/point.js",
+      "size": 81,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/radialArea.js",
+      "size": 934,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/radialLine.js",
+      "size": 396,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/stack.js",
+      "size": 1432,
+      "level": 2
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/symbol/circle.js",
+      "size": 186,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/symbol/cross.js",
+      "size": 476,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/symbol/diamond.js",
+      "size": 307,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/symbol/square.js",
+      "size": 137,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/symbol/star.js",
+      "size": 609,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/symbol/triangle.js",
+      "size": 255,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/symbol/wye.js",
+      "size": 733,
+      "level": 3
+    },
+    {
+      "module": "d3-shape",
+      "path": "d3/d3-shape/symbol.js",
+      "size": 1160,
+      "level": 2
+    },
+    {
+      "module": "d3-time-format",
+      "path": "d3/d3-time-format/defaultLocale.js",
+      "size": 867,
+      "level": 2
+    },
+    {
+      "module": "d3-time-format",
+      "path": "d3/d3-time-format/isoFormat.js",
+      "size": 284,
+      "level": 2
+    },
+    {
+      "module": "d3-time-format",
+      "path": "d3/d3-time-format/isoParse.js",
+      "size": 319,
+      "level": 2
+    },
+    {
+      "module": "d3-time-format",
+      "path": "d3/d3-time-format/locale.js",
+      "size": 13876,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/day.js",
+      "size": 462,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/duration.js",
+      "size": 164,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/hour.js",
+      "size": 569,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/interval.js",
+      "size": 1845,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/millisecond.js",
+      "size": 668,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/minute.js",
+      "size": 437,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/month.js",
+      "size": 414,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/second.js",
+      "size": 440,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/utcDay.js",
+      "size": 397,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/utcHour.js",
+      "size": 399,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/utcMinute.js",
+      "size": 412,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/utcMonth.js",
+      "size": 453,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/utcWeek.js",
+      "size": 979,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/utcYear.js",
+      "size": 808,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/week.js",
+      "size": 963,
+      "level": 2
+    },
+    {
+      "module": "d3-time",
+      "path": "d3/d3-time/year.js",
+      "size": 754,
+      "level": 2
+    },
+    {
+      "module": "d3-timer",
+      "path": "d3/d3-timer/interval.js",
+      "size": 400,
+      "level": 2
+    },
+    {
+      "module": "d3-timer",
+      "path": "d3/d3-timer/timeout.js",
+      "size": 250,
+      "level": 2
+    },
+    {
+      "module": "d3-timer",
+      "path": "d3/d3-timer/timer.js",
+      "size": 2771,
+      "level": 2
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/active.js",
+      "size": 484,
+      "level": 2
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/interrupt.js",
+      "size": 665,
+      "level": 2
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/selection/index.js",
+      "size": 245,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/selection/interrupt.js",
+      "size": 138,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/selection/transition.js",
+      "size": 1090,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/attr.js",
+      "size": 2473,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/attrTween.js",
+      "size": 904,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/delay.js",
+      "size": 510,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/duration.js",
+      "size": 528,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/ease.js",
+      "size": 348,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/filter.js",
+      "size": 574,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/index.js",
+      "size": 1892,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/interpolate.js",
+      "size": 340,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/merge.js",
+      "size": 653,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/on.js",
+      "size": 853,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/remove.js",
+      "size": 284,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/schedule.js",
+      "size": 4792,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/select.js",
+      "size": 826,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/selectAll.js",
+      "size": 883,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/selection.js",
+      "size": 174,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/style.js",
+      "size": 2119,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/styleTween.js",
+      "size": 607,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/text.js",
+      "size": 473,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/transition.js",
+      "size": 691,
+      "level": 3
+    },
+    {
+      "module": "d3-transition",
+      "path": "d3/d3-transition/transition/tween.js",
+      "size": 2026,
+      "level": 3
+    },
+    {
+      "module": "d3-voronoi",
+      "path": "d3/d3-voronoi/Beach.js",
+      "size": 4381,
+      "level": 2
+    },
+    {
+      "module": "d3-voronoi",
+      "path": "d3/d3-voronoi/Cell.js",
+      "size": 4087,
+      "level": 2
+    },
+    {
+      "module": "d3-voronoi",
+      "path": "d3/d3-voronoi/Circle.js",
+      "size": 1632,
+      "level": 2
+    },
+    {
+      "module": "d3-voronoi",
+      "path": "d3/d3-voronoi/constant.js",
+      "size": 72,
+      "level": 2
+    },
+    {
+      "module": "d3-voronoi",
+      "path": "d3/d3-voronoi/Diagram.js",
+      "size": 3415,
+      "level": 2
+    },
+    {
+      "module": "d3-voronoi",
+      "path": "d3/d3-voronoi/Edge.js",
+      "size": 3634,
+      "level": 2
+    },
+    {
+      "module": "d3-voronoi",
+      "path": "d3/d3-voronoi/point.js",
+      "size": 81,
+      "level": 2
+    },
+    {
+      "module": "d3-voronoi",
+      "path": "d3/d3-voronoi/RedBlackTree.js",
+      "size": 5302,
+      "level": 2
+    },
+    {
+      "module": "d3-voronoi",
+      "path": "d3/d3-voronoi/voronoi.js",
+      "size": 1420,
+      "level": 2
+    },
+    {
+      "module": "d3-zoom",
+      "path": "d3/d3-zoom/constant.js",
+      "size": 72,
+      "level": 2
+    },
+    {
+      "module": "d3-zoom",
+      "path": "d3/d3-zoom/event.js",
+      "size": 137,
+      "level": 2
+    },
+    {
+      "module": "d3-zoom",
+      "path": "d3/d3-zoom/noevent.js",
+      "size": 202,
+      "level": 2
+    },
+    {
+      "module": "d3-zoom",
+      "path": "d3/d3-zoom/transform.js",
+      "size": 1336,
+      "level": 2
+    },
+    {
+      "module": "d3-zoom",
+      "path": "d3/d3-zoom/zoom.js",
+      "size": 12133,
+      "level": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "d3/d3-array1",
+      "target": "d3/d3-array/threshold"
+    },
+
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/threshold"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/clip"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/path"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/projection"
+    },
+    {
+      "source": "d3/d3-hierarchy",
+      "target": "d3/d3-hierarchy/hierarchy"
+    },
+    {
+      "source": "d3/d3-hierarchy",
+      "target": "d3/d3-hierarchy/pack"
+    },
+    {
+      "source": "d3/d3-hierarchy",
+      "target": "d3/d3-hierarchy/treemap"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/transform"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/selection"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/curve"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/offset"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/order"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/symbol"
+    },
+    {
+      "source": "d3/d3-transition",
+      "target": "d3/d3-transition/selection"
+    },
+    {
+      "source": "d3/d3-transition",
+      "target": "d3/d3-transition/transition"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/array.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/ascending.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/bisect.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/bisector.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/constant.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/descending.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/deviation.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/extent.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/histogram.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/identity.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/max.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/mean.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/median.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/merge.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/min.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/number.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/pairs.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/permute.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/quantile.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/range.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/scan.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/shuffle.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/sum.js"
+    },
+    {
+      "source": "d3/d3-array/threshold",
+      "target": "d3/d3-array/threshold/sturges.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/ticks.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/transpose.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/variance.js"
+    },
+    {
+      "source": "d3/d3-array",
+      "target": "d3/d3-array/zip.js"
+    },
+    {
+      "source": "d3/d3-axis",
+      "target": "d3/d3-axis/array.js"
+    },
+    {
+      "source": "d3/d3-axis",
+      "target": "d3/d3-axis/axis.js"
+    },
+    {
+      "source": "d3/d3-axis",
+      "target": "d3/d3-axis/identity.js"
+    },
+    {
+      "source": "d3/d3-brush",
+      "target": "d3/d3-brush/brush.js"
+    },
+    {
+      "source": "d3/d3-brush",
+      "target": "d3/d3-brush/constant.js"
+    },
+    {
+      "source": "d3/d3-brush",
+      "target": "d3/d3-brush/event.js"
+    },
+    {
+      "source": "d3/d3-brush",
+      "target": "d3/d3-brush/noevent.js"
+    },
+    {
+      "source": "d3/d3-chord",
+      "target": "d3/d3-chord/array.js"
+    },
+    {
+      "source": "d3/d3-chord",
+      "target": "d3/d3-chord/chord.js"
+    },
+    {
+      "source": "d3/d3-chord",
+      "target": "d3/d3-chord/constant.js"
+    },
+    {
+      "source": "d3/d3-chord",
+      "target": "d3/d3-chord/math.js"
+    },
+    {
+      "source": "d3/d3-chord",
+      "target": "d3/d3-chord/ribbon.js"
+    },
+    {
+      "source": "d3/d3-collection",
+      "target": "d3/d3-collection/entries.js"
+    },
+    {
+      "source": "d3/d3-collection",
+      "target": "d3/d3-collection/keys.js"
+    },
+    {
+      "source": "d3/d3-collection",
+      "target": "d3/d3-collection/map.js"
+    },
+    {
+      "source": "d3/d3-collection",
+      "target": "d3/d3-collection/nest.js"
+    },
+    {
+      "source": "d3/d3-collection",
+      "target": "d3/d3-collection/set.js"
+    },
+    {
+      "source": "d3/d3-collection",
+      "target": "d3/d3-collection/values.js"
+    },
+    {
+      "source": "d3/d3-color",
+      "target": "d3/d3-color/color.js"
+    },
+    {
+      "source": "d3/d3-color",
+      "target": "d3/d3-color/cubehelix.js"
+    },
+    {
+      "source": "d3/d3-color",
+      "target": "d3/d3-color/define.js"
+    },
+    {
+      "source": "d3/d3-color",
+      "target": "d3/d3-color/lab.js"
+    },
+    {
+      "source": "d3/d3-color",
+      "target": "d3/d3-color/math.js"
+    },
+    {
+      "source": "d3/d3-dispatch",
+      "target": "d3/d3-dispatch/dispatch.js"
+    },
+    {
+      "source": "d3/d3-drag",
+      "target": "d3/d3-drag/constant.js"
+    },
+    {
+      "source": "d3/d3-drag",
+      "target": "d3/d3-drag/drag.js"
+    },
+    {
+      "source": "d3/d3-drag",
+      "target": "d3/d3-drag/event.js"
+    },
+    {
+      "source": "d3/d3-drag",
+      "target": "d3/d3-drag/nodrag.js"
+    },
+    {
+      "source": "d3/d3-drag",
+      "target": "d3/d3-drag/noevent.js"
+    },
+    {
+      "source": "d3/d3-dsv",
+      "target": "d3/d3-dsv/csv.js"
+    },
+    {
+      "source": "d3/d3-dsv",
+      "target": "d3/d3-dsv/dsv.js"
+    },
+    {
+      "source": "d3/d3-dsv",
+      "target": "d3/d3-dsv/tsv.js"
+    },
+    {
+      "source": "d3/d3-ease",
+      "target": "d3/d3-ease/back.js"
+    },
+    {
+      "source": "d3/d3-ease",
+      "target": "d3/d3-ease/bounce.js"
+    },
+    {
+      "source": "d3/d3-ease",
+      "target": "d3/d3-ease/circle.js"
+    },
+    {
+      "source": "d3/d3-ease",
+      "target": "d3/d3-ease/cubic.js"
+    },
+    {
+      "source": "d3/d3-ease",
+      "target": "d3/d3-ease/elastic.js"
+    },
+    {
+      "source": "d3/d3-ease",
+      "target": "d3/d3-ease/exp.js"
+    },
+    {
+      "source": "d3/d3-ease",
+      "target": "d3/d3-ease/linear.js"
+    },
+    {
+      "source": "d3/d3-ease",
+      "target": "d3/d3-ease/poly.js"
+    },
+    {
+      "source": "d3/d3-ease",
+      "target": "d3/d3-ease/quad.js"
+    },
+    {
+      "source": "d3/d3-ease",
+      "target": "d3/d3-ease/sin.js"
+    },
+    {
+      "source": "d3/d3-force",
+      "target": "d3/d3-force/center.js"
+    },
+    {
+      "source": "d3/d3-force",
+      "target": "d3/d3-force/collide.js"
+    },
+    {
+      "source": "d3/d3-force",
+      "target": "d3/d3-force/constant.js"
+    },
+    {
+      "source": "d3/d3-force",
+      "target": "d3/d3-force/jiggle.js"
+    },
+    {
+      "source": "d3/d3-force",
+      "target": "d3/d3-force/link.js"
+    },
+    {
+      "source": "d3/d3-force",
+      "target": "d3/d3-force/manyBody.js"
+    },
+    {
+      "source": "d3/d3-force",
+      "target": "d3/d3-force/simulation.js"
+    },
+    {
+      "source": "d3/d3-force",
+      "target": "d3/d3-force/x.js"
+    },
+    {
+      "source": "d3/d3-force",
+      "target": "d3/d3-force/y.js"
+    },
+    {
+      "source": "d3/d3-format",
+      "target": "d3/d3-format/defaultLocale.js"
+    },
+    {
+      "source": "d3/d3-format",
+      "target": "d3/d3-format/exponent.js"
+    },
+    {
+      "source": "d3/d3-format",
+      "target": "d3/d3-format/formatDecimal.js"
+    },
+    {
+      "source": "d3/d3-format",
+      "target": "d3/d3-format/formatDefault.js"
+    },
+    {
+      "source": "d3/d3-format",
+      "target": "d3/d3-format/formatGroup.js"
+    },
+    {
+      "source": "d3/d3-format",
+      "target": "d3/d3-format/formatPrefixAuto.js"
+    },
+    {
+      "source": "d3/d3-format",
+      "target": "d3/d3-format/formatRounded.js"
+    },
+    {
+      "source": "d3/d3-format",
+      "target": "d3/d3-format/formatSpecifier.js"
+    },
+    {
+      "source": "d3/d3-format",
+      "target": "d3/d3-format/formatTypes.js"
+    },
+    {
+      "source": "d3/d3-format",
+      "target": "d3/d3-format/locale.js"
+    },
+    {
+      "source": "d3/d3-format",
+      "target": "d3/d3-format/precisionFixed.js"
+    },
+    {
+      "source": "d3/d3-format",
+      "target": "d3/d3-format/precisionPrefix.js"
+    },
+    {
+      "source": "d3/d3-format",
+      "target": "d3/d3-format/precisionRound.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/adder.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/area.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/bounds.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/cartesian.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/centroid.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/circle.js"
+    },
+    {
+      "source": "d3/d3-geo/clip",
+      "target": "d3/d3-geo/clip/antimeridian.js"
+    },
+    {
+      "source": "d3/d3-geo/clip",
+      "target": "d3/d3-geo/clip/buffer.js"
+    },
+    {
+      "source": "d3/d3-geo/clip",
+      "target": "d3/d3-geo/clip/circle.js"
+    },
+    {
+      "source": "d3/d3-geo/clip",
+      "target": "d3/d3-geo/clip/extent.js"
+    },
+    {
+      "source": "d3/d3-geo/clip",
+      "target": "d3/d3-geo/clip/index.js"
+    },
+    {
+      "source": "d3/d3-geo/clip",
+      "target": "d3/d3-geo/clip/line.js"
+    },
+    {
+      "source": "d3/d3-geo/clip",
+      "target": "d3/d3-geo/clip/polygon.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/compose.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/constant.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/distance.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/graticule.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/identity.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/interpolate.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/length.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/math.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/noop.js"
+    },
+    {
+      "source": "d3/d3-geo/path",
+      "target": "d3/d3-geo/path/area.js"
+    },
+    {
+      "source": "d3/d3-geo/path",
+      "target": "d3/d3-geo/path/bounds.js"
+    },
+    {
+      "source": "d3/d3-geo/path",
+      "target": "d3/d3-geo/path/centroid.js"
+    },
+    {
+      "source": "d3/d3-geo/path",
+      "target": "d3/d3-geo/path/context.js"
+    },
+    {
+      "source": "d3/d3-geo/path",
+      "target": "d3/d3-geo/path/index.js"
+    },
+    {
+      "source": "d3/d3-geo/path",
+      "target": "d3/d3-geo/path/string.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/pointEqual.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/polygonContains.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/albers.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/albersUsa.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/azimuthal.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/azimuthalEqualArea.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/azimuthalEquidistant.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/conic.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/conicConformal.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/conicEqualArea.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/conicEquidistant.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/cylindricalEqualArea.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/equirectangular.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/fit.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/gnomonic.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/identity.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/index.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/mercator.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/orthographic.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/resample.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/stereographic.js"
+    },
+    {
+      "source": "d3/d3-geo/projection",
+      "target": "d3/d3-geo/projection/transverseMercator.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/rotation.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/stream.js"
+    },
+    {
+      "source": "d3/d3-geo",
+      "target": "d3/d3-geo/transform.js"
+    },
+    {
+      "source": "d3/d3-hierarchy",
+      "target": "d3/d3-hierarchy/accessors.js"
+    },
+    {
+      "source": "d3/d3-hierarchy",
+      "target": "d3/d3-hierarchy/cluster.js"
+    },
+    {
+      "source": "d3/d3-hierarchy",
+      "target": "d3/d3-hierarchy/constant.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/hierarchy",
+      "target": "d3/d3-hierarchy/hierarchy/ancestors.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/hierarchy",
+      "target": "d3/d3-hierarchy/hierarchy/descendants.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/hierarchy",
+      "target": "d3/d3-hierarchy/hierarchy/each.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/hierarchy",
+      "target": "d3/d3-hierarchy/hierarchy/eachAfter.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/hierarchy",
+      "target": "d3/d3-hierarchy/hierarchy/eachBefore.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/hierarchy",
+      "target": "d3/d3-hierarchy/hierarchy/index.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/hierarchy",
+      "target": "d3/d3-hierarchy/hierarchy/leaves.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/hierarchy",
+      "target": "d3/d3-hierarchy/hierarchy/links.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/hierarchy",
+      "target": "d3/d3-hierarchy/hierarchy/path.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/hierarchy",
+      "target": "d3/d3-hierarchy/hierarchy/sort.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/hierarchy",
+      "target": "d3/d3-hierarchy/hierarchy/sum.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/pack",
+      "target": "d3/d3-hierarchy/pack/enclose.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/pack",
+      "target": "d3/d3-hierarchy/pack/index.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/pack",
+      "target": "d3/d3-hierarchy/pack/shuffle.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/pack",
+      "target": "d3/d3-hierarchy/pack/siblings.js"
+    },
+    {
+      "source": "d3/d3-hierarchy",
+      "target": "d3/d3-hierarchy/partition.js"
+    },
+    {
+      "source": "d3/d3-hierarchy",
+      "target": "d3/d3-hierarchy/stratify.js"
+    },
+    {
+      "source": "d3/d3-hierarchy",
+      "target": "d3/d3-hierarchy/tree.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/treemap",
+      "target": "d3/d3-hierarchy/treemap/binary.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/treemap",
+      "target": "d3/d3-hierarchy/treemap/dice.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/treemap",
+      "target": "d3/d3-hierarchy/treemap/index.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/treemap",
+      "target": "d3/d3-hierarchy/treemap/resquarify.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/treemap",
+      "target": "d3/d3-hierarchy/treemap/round.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/treemap",
+      "target": "d3/d3-hierarchy/treemap/slice.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/treemap",
+      "target": "d3/d3-hierarchy/treemap/sliceDice.js"
+    },
+    {
+      "source": "d3/d3-hierarchy/treemap",
+      "target": "d3/d3-hierarchy/treemap/squarify.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/array.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/basis.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/basisClosed.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/color.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/constant.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/cubehelix.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/date.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/hcl.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/hsl.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/lab.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/number.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/object.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/quantize.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/rgb.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/round.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/string.js"
+    },
+    {
+      "source": "d3/d3-interpolate/transform",
+      "target": "d3/d3-interpolate/transform/decompose.js"
+    },
+    {
+      "source": "d3/d3-interpolate/transform",
+      "target": "d3/d3-interpolate/transform/index.js"
+    },
+    {
+      "source": "d3/d3-interpolate/transform",
+      "target": "d3/d3-interpolate/transform/parse.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/value.js"
+    },
+    {
+      "source": "d3/d3-interpolate",
+      "target": "d3/d3-interpolate/zoom.js"
+    },
+    {
+      "source": "d3/d3-path",
+      "target": "d3/d3-path/path.js"
+    },
+    {
+      "source": "d3/d3-polygon",
+      "target": "d3/d3-polygon/area.js"
+    },
+    {
+      "source": "d3/d3-polygon",
+      "target": "d3/d3-polygon/centroid.js"
+    },
+    {
+      "source": "d3/d3-polygon",
+      "target": "d3/d3-polygon/contains.js"
+    },
+    {
+      "source": "d3/d3-polygon",
+      "target": "d3/d3-polygon/cross.js"
+    },
+    {
+      "source": "d3/d3-polygon",
+      "target": "d3/d3-polygon/hull.js"
+    },
+    {
+      "source": "d3/d3-polygon",
+      "target": "d3/d3-polygon/length.js"
+    },
+    {
+      "source": "d3/d3-quadtree",
+      "target": "d3/d3-quadtree/add.js"
+    },
+    {
+      "source": "d3/d3-quadtree",
+      "target": "d3/d3-quadtree/cover.js"
+    },
+    {
+      "source": "d3/d3-quadtree",
+      "target": "d3/d3-quadtree/data.js"
+    },
+    {
+      "source": "d3/d3-quadtree",
+      "target": "d3/d3-quadtree/extent.js"
+    },
+    {
+      "source": "d3/d3-quadtree",
+      "target": "d3/d3-quadtree/find.js"
+    },
+    {
+      "source": "d3/d3-quadtree",
+      "target": "d3/d3-quadtree/quad.js"
+    },
+    {
+      "source": "d3/d3-quadtree",
+      "target": "d3/d3-quadtree/quadtree.js"
+    },
+    {
+      "source": "d3/d3-quadtree",
+      "target": "d3/d3-quadtree/remove.js"
+    },
+    {
+      "source": "d3/d3-quadtree",
+      "target": "d3/d3-quadtree/root.js"
+    },
+    {
+      "source": "d3/d3-quadtree",
+      "target": "d3/d3-quadtree/size.js"
+    },
+    {
+      "source": "d3/d3-quadtree",
+      "target": "d3/d3-quadtree/visit.js"
+    },
+    {
+      "source": "d3/d3-quadtree",
+      "target": "d3/d3-quadtree/visitAfter.js"
+    },
+    {
+      "source": "d3/d3-quadtree",
+      "target": "d3/d3-quadtree/x.js"
+    },
+    {
+      "source": "d3/d3-quadtree",
+      "target": "d3/d3-quadtree/y.js"
+    },
+    {
+      "source": "d3/d3-queue",
+      "target": "d3/d3-queue/array.js"
+    },
+    {
+      "source": "d3/d3-queue",
+      "target": "d3/d3-queue/queue.js"
+    },
+    {
+      "source": "d3/d3-random",
+      "target": "d3/d3-random/bates.js"
+    },
+    {
+      "source": "d3/d3-random",
+      "target": "d3/d3-random/exponential.js"
+    },
+    {
+      "source": "d3/d3-random",
+      "target": "d3/d3-random/irwinHall.js"
+    },
+    {
+      "source": "d3/d3-random",
+      "target": "d3/d3-random/logNormal.js"
+    },
+    {
+      "source": "d3/d3-random",
+      "target": "d3/d3-random/normal.js"
+    },
+    {
+      "source": "d3/d3-random",
+      "target": "d3/d3-random/uniform.js"
+    },
+    {
+      "source": "d3/d3-request",
+      "target": "d3/d3-request/csv.js"
+    },
+    {
+      "source": "d3/d3-request",
+      "target": "d3/d3-request/dsv.js"
+    },
+    {
+      "source": "d3/d3-request",
+      "target": "d3/d3-request/html.js"
+    },
+    {
+      "source": "d3/d3-request",
+      "target": "d3/d3-request/json.js"
+    },
+    {
+      "source": "d3/d3-request",
+      "target": "d3/d3-request/request.js"
+    },
+    {
+      "source": "d3/d3-request",
+      "target": "d3/d3-request/text.js"
+    },
+    {
+      "source": "d3/d3-request",
+      "target": "d3/d3-request/tsv.js"
+    },
+    {
+      "source": "d3/d3-request",
+      "target": "d3/d3-request/type.js"
+    },
+    {
+      "source": "d3/d3-request",
+      "target": "d3/d3-request/xml.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/array.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/band.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/category10.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/category20.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/category20b.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/category20c.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/colors.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/constant.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/continuous.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/cubehelix.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/identity.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/linear.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/log.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/nice.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/number.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/ordinal.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/pow.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/quantile.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/quantize.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/rainbow.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/sequential.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/threshold.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/tickFormat.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/time.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/utcTime.js"
+    },
+    {
+      "source": "d3/d3-scale",
+      "target": "d3/d3-scale/viridis.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/constant.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/creator.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/local.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/matcher.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/mouse.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/namespace.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/namespaces.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/point.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/select.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/selectAll.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/append.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/attr.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/call.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/classed.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/data.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/datum.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/dispatch.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/each.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/empty.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/enter.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/exit.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/filter.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/html.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/index.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/insert.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/lower.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/merge.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/node.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/nodes.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/on.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/order.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/property.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/raise.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/remove.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/select.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/selectAll.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/size.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/sort.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/sparse.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/style.js"
+    },
+    {
+      "source": "d3/d3-selection/selection",
+      "target": "d3/d3-selection/selection/text.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/selector.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/selectorAll.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/sourceEvent.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/touch.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/touches.js"
+    },
+    {
+      "source": "d3/d3-selection",
+      "target": "d3/d3-selection/window.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/arc.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/area.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/array.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/constant.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/basis.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/basisClosed.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/basisOpen.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/bundle.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/cardinal.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/cardinalClosed.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/cardinalOpen.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/catmullRom.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/catmullRomClosed.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/catmullRomOpen.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/linear.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/linearClosed.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/monotone.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/natural.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/radial.js"
+    },
+    {
+      "source": "d3/d3-shape/curve",
+      "target": "d3/d3-shape/curve/step.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/descending.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/identity.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/line.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/math.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/noop.js"
+    },
+    {
+      "source": "d3/d3-shape/offset",
+      "target": "d3/d3-shape/offset/expand.js"
+    },
+    {
+      "source": "d3/d3-shape/offset",
+      "target": "d3/d3-shape/offset/none.js"
+    },
+    {
+      "source": "d3/d3-shape/offset",
+      "target": "d3/d3-shape/offset/silhouette.js"
+    },
+    {
+      "source": "d3/d3-shape/offset",
+      "target": "d3/d3-shape/offset/wiggle.js"
+    },
+    {
+      "source": "d3/d3-shape/order",
+      "target": "d3/d3-shape/order/ascending.js"
+    },
+    {
+      "source": "d3/d3-shape/order",
+      "target": "d3/d3-shape/order/descending.js"
+    },
+    {
+      "source": "d3/d3-shape/order",
+      "target": "d3/d3-shape/order/insideOut.js"
+    },
+    {
+      "source": "d3/d3-shape/order",
+      "target": "d3/d3-shape/order/none.js"
+    },
+    {
+      "source": "d3/d3-shape/order",
+      "target": "d3/d3-shape/order/reverse.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/pie.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/point.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/radialArea.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/radialLine.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/stack.js"
+    },
+    {
+      "source": "d3/d3-shape/symbol",
+      "target": "d3/d3-shape/symbol/circle.js"
+    },
+    {
+      "source": "d3/d3-shape/symbol",
+      "target": "d3/d3-shape/symbol/cross.js"
+    },
+    {
+      "source": "d3/d3-shape/symbol",
+      "target": "d3/d3-shape/symbol/diamond.js"
+    },
+    {
+      "source": "d3/d3-shape/symbol",
+      "target": "d3/d3-shape/symbol/square.js"
+    },
+    {
+      "source": "d3/d3-shape/symbol",
+      "target": "d3/d3-shape/symbol/star.js"
+    },
+    {
+      "source": "d3/d3-shape/symbol",
+      "target": "d3/d3-shape/symbol/triangle.js"
+    },
+    {
+      "source": "d3/d3-shape/symbol",
+      "target": "d3/d3-shape/symbol/wye.js"
+    },
+    {
+      "source": "d3/d3-shape",
+      "target": "d3/d3-shape/symbol.js"
+    },
+    {
+      "source": "d3/d3-time-format",
+      "target": "d3/d3-time-format/defaultLocale.js"
+    },
+    {
+      "source": "d3/d3-time-format",
+      "target": "d3/d3-time-format/isoFormat.js"
+    },
+    {
+      "source": "d3/d3-time-format",
+      "target": "d3/d3-time-format/isoParse.js"
+    },
+    {
+      "source": "d3/d3-time-format",
+      "target": "d3/d3-time-format/locale.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/day.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/duration.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/hour.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/interval.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/millisecond.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/minute.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/month.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/second.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/utcDay.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/utcHour.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/utcMinute.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/utcMonth.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/utcWeek.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/utcYear.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/week.js"
+    },
+    {
+      "source": "d3/d3-time",
+      "target": "d3/d3-time/year.js"
+    },
+    {
+      "source": "d3/d3-timer",
+      "target": "d3/d3-timer/interval.js"
+    },
+    {
+      "source": "d3/d3-timer",
+      "target": "d3/d3-timer/timeout.js"
+    },
+    {
+      "source": "d3/d3-timer",
+      "target": "d3/d3-timer/timer.js"
+    },
+    {
+      "source": "d3/d3-transition",
+      "target": "d3/d3-transition/active.js"
+    },
+    {
+      "source": "d3/d3-transition",
+      "target": "d3/d3-transition/interrupt.js"
+    },
+    {
+      "source": "d3/d3-transition/selection",
+      "target": "d3/d3-transition/selection/index.js"
+    },
+    {
+      "source": "d3/d3-transition/selection",
+      "target": "d3/d3-transition/selection/interrupt.js"
+    },
+    {
+      "source": "d3/d3-transition/selection",
+      "target": "d3/d3-transition/selection/transition.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/attr.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/attrTween.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/delay.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/duration.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/ease.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/filter.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/index.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/interpolate.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/merge.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/on.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/remove.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/schedule.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/select.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/selectAll.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/selection.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/style.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/styleTween.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/text.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/transition.js"
+    },
+    {
+      "source": "d3/d3-transition/transition",
+      "target": "d3/d3-transition/transition/tween.js"
+    },
+    {
+      "source": "d3/d3-voronoi",
+      "target": "d3/d3-voronoi/Beach.js"
+    },
+    {
+      "source": "d3/d3-voronoi",
+      "target": "d3/d3-voronoi/Cell.js"
+    },
+    {
+      "source": "d3/d3-voronoi",
+      "target": "d3/d3-voronoi/Circle.js"
+    },
+    {
+      "source": "d3/d3-voronoi",
+      "target": "d3/d3-voronoi/constant.js"
+    },
+    {
+      "source": "d3/d3-voronoi",
+      "target": "d3/d3-voronoi/Diagram.js"
+    },
+    {
+      "source": "d3/d3-voronoi",
+      "target": "d3/d3-voronoi/Edge.js"
+    },
+    {
+      "source": "d3/d3-voronoi",
+      "target": "d3/d3-voronoi/point.js"
+    },
+    {
+      "source": "d3/d3-voronoi",
+      "target": "d3/d3-voronoi/RedBlackTree.js"
+    },
+    {
+      "source": "d3/d3-voronoi",
+      "target": "d3/d3-voronoi/voronoi.js"
+    },
+    {
+      "source": "d3/d3-zoom",
+      "target": "d3/d3-zoom/constant.js"
+    },
+    {
+      "source": "d3/d3-zoom",
+      "target": "d3/d3-zoom/event.js"
+    },
+    {
+      "source": "d3/d3-zoom",
+      "target": "d3/d3-zoom/noevent.js"
+    },
+    {
+      "source": "d3/d3-zoom",
+      "target": "d3/d3-zoom/transform.js"
+    },
+    {
+      "source": "d3/d3-zoom",
+      "target": "d3/d3-zoom/zoom.js"
+    }
+  ]
+}

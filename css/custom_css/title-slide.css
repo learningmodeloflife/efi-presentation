@@ -1,0 +1,59 @@
+/* Title slide specific styles */
+section.title-slide {
+    height: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+  }
+  
+  .reveal .title-slide .r-stack {
+    width: 100% !important;
+  }
+  
+  /* Header container styling */
+  .reveal .title-slide .r-vstack > div:first-child {
+    display: flex !important;
+    align-items: flex-end !important;
+    justify-content: center !important;
+    gap: 0.5em !important;
+    margin-bottom: 0.5em !important;
+  }
+  
+  .reveal .title-slide h1 {
+    font-family: var(--playfair) !important;
+    font-size: 2em !important;
+    margin: 0 !important;
+    line-height: 1 !important;
+  }
+  
+  .reveal .title-slide img {
+      height: 0.5em !important;
+      width: auto !important;
+      margin: -0.1em 0 0.1em -0.2em !important; 
+      object-fit: contain !important;
+  }
+
+  /* Decoding animation styling */
+  #decoding-animation {
+      font-family: var(--lato) !important;
+      font-size: 1.5em !important;
+      text-align: center !important;
+  }
+
+  /* Fragment states */
+  #decoding-animation.fragment:not(.visible) {
+      opacity: 0 !important;
+      visibility: hidden !important;
+  }
+
+  #decoding-animation.fragment.visible {
+      opacity: 1 !important;
+      visibility: visible !important;
+  }
+  
+  /* Prevent style leakage */
+  section:not(.title-slide) .r-stack,
+  section:not(.title-slide) .r-vstack,
+  section:not(.title-slide) h1,
+  section:not(.title-slide) #decoding-animation {
+      all: revert !important;
+  }

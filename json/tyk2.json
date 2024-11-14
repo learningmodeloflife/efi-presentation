@@ -1,0 +1,46 @@
+{
+    "nodes": [
+        {
+            "module": "tyk2",
+            "path": "dna/tyk2/signalling-protein",
+            "size": 1000,
+            "color": "blue",
+            "level": 2,
+            "img":"../img/network_img/tyk2_protein.png"
+        },
+        {
+            "module": "tyk2",
+            "path": "dna/tyk2/signalling-protein/critical-covid-19",
+            "size": 700,
+            "color": "blue",
+            "level": 3,
+            "img":"../img/network_img/lung.png"
+        },
+        {
+            "module": "tyk2",
+            "path": "dna/tyk2",
+            "size": 1000,
+            "color": "blue",
+            "level": 1,
+            "img":"../img/network_img/dna.png"
+        }
+
+    ],
+
+    "links": [
+
+        {
+            "source": "dna/tyk2",
+            "target": "dna/tyk2/signalling-protein"
+        },
+        {
+            "source": "dna/tyk2",
+            "target": "dna/tyk2/signalling-protein/critical-covid-19"
+        },
+        {
+            "source": "dna/tyk2/signalling-protein",
+            "target": "dna/tyk2/signalling-protein/critical-covid-19"
+        }
+
+    ]
+}

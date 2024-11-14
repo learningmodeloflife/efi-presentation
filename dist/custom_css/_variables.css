@@ -1,0 +1,9 @@
+/**
+ * reveal.js 5.1.0
+ * https://revealjs.com
+ * MIT licensed
+ *
+ * Copyright (C) 2011-2024 Hakim El Hattab, https://hakim.se
+ */
+
+@import url(https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap);@import url(https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap);:root{--playfair:'Playfair Display',serif;--lato:'Lato',sans-serif;--footer-height:min(1em, 4vh);--controls-offset:0.25em}

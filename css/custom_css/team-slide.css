@@ -1,0 +1,74 @@
+/* Team slide specific styles */
+.reveal section.team-slide {
+    height: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    transform: translateY(-4vh) !important;
+}
+
+.reveal .team-slide .team-container {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0 !important;
+    width: 100% !important;
+    margin: 1em auto !important;
+    justify-content: center !important;
+}
+
+.reveal .team-slide .row {
+    display: flex !important;
+    justify-content: center !important;
+    gap: 3em !important;
+    margin: 1em 0 !important;
+}
+
+.reveal .team-slide .row:first-child {
+    margin-top: 3em !important;
+}
+
+.reveal .team-slide .row:last-child {
+    margin-top: 0 !important;
+}
+
+.reveal .team-slide .team-member {
+    text-align: center !important;
+    margin-top: 0 !important;
+}
+
+.reveal .team-slide .member-image {
+    width: 150px !important;
+    height: 150px !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+    filter: grayscale(100%) !important;
+    border: 3px solid transparent !important;
+    transition: all 0.3s ease !important;
+}
+
+.reveal .team-slide .member-image:hover {
+    filter: grayscale(0%) !important;
+    transform: scale(1.05) !important;
+}
+
+.reveal .team-slide .member-name {
+    font-family: var(--playfair) !important;
+    font-size: 1.1rem !important;
+    margin: 0.5em 0 !important;
+}
+
+.reveal .team-slide .member-title {
+    font-family: var(--lato) !important;
+    font-size: 0.9rem !important;
+    color: #666 !important;
+    margin: 0 !important;
+}
+
+/* Prevent styles from leaking to other slides */
+section:not(.team-slide) .team-container,
+section:not(.team-slide) .row,
+section:not(.team-slide) .team-member,
+section:not(.team-slide) .member-image,
+section:not(.team-slide) .member-name,
+section:not(.team-slide) .member-title {
+    all: revert !important;
+}

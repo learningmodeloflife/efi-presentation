@@ -1,0 +1,36 @@
+/* Closing slide specific styles */
+.reveal section.closing-slide {
+    height: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+.reveal .closing-slide .r-stack {
+    width: 100% !important;
+}
+
+.reveal .closing-slide .r-vstack {
+    gap: 1em !important;
+}
+
+.reveal .closing-slide img {
+    max-width: 200px !important;
+    height: auto !important;
+    object-fit: contain !important;
+}
+
+.reveal .closing-slide h3 {
+    font-family: var(--playfair) !important;
+    font-size: 1.2em !important;
+    font-weight: 400 !important;
+    margin: 1em !important;
+    color: var(--r-heading-color) !important;
+}
+
+/* Prevent styles from leaking */
+section:not(.closing-slide) .r-stack,
+section:not(.closing-slide) .r-vstack,
+section:not(.closing-slide) img,
+section:not(.closing-slide) h3 {
+    all: revert !important;
+}

@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Learning Model of Life</title>
+
+		<!-- Default css -->
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/simple.css">
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+
+		<!-- Custom css -->
+		<link rel="stylesheet" href="dist/custom_css/custom.css">
+
+	</head>
+	<body>
+		<div class="reveal loading">
+			<div class="slides">
+				<!-- Slides loaded from yaml -->
+			</div>
+
+			<!-- Footer -->
+			<div class="footer">
+				<img src="assets/lml_logo.png" class="footer-logo" alt="LML Logo">
+				<span class="footer-text">lml.ac.uk</span>
+			</div>
+		</div>
+
+		<!-- Reveal boilerplate js -->
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+
+		<!-- Custom js -->
+		<script src="dist/custom_js/decoding-animation.js" type="module"></script>
+		<script src="dist/custom_js/timer.js" type="module"></script>
+		<script src="dist/custom_js/sequencingcosts.js" type="module"></script>
+		<script src="dist/custom_js/sequence-mutation.js" type="module"></script>
+		<script type="module">
+			import { initializeSpeechMerge } from './js/custom_js/speech-merge.js';
+			initializeSpeechMerge();
+		</script>
+
+		<!-- Slide loader and initialization -->
+		<script type="module">
+		    import { loadSlides } from './dist/slide-loader.js';
+		    
+		    function updateFooterVisibility(currentSlide) {
+		        const reveal = document.querySelector('.reveal');
+		        if (currentSlide.classList.contains('title-slide')) {
+		            reveal.setAttribute('data-state', 'title-slide');
+		        } else if (currentSlide.classList.contains('closing-slide')) {
+		            reveal.setAttribute('data-state', 'closing-slide');
+		        } else {
+		            reveal.removeAttribute('data-state');
+		        }
+		    }
+
+		    async function initializePresentation() {
+		        try {
+		            // Show loading state
+		            document.querySelector('.reveal').classList.add('loading');
+		            
+		            // Load slides
+		            await loadSlides();
+		            
+		            // Initialize Reveal.js
+		            await Reveal.initialize({
+		                hash: true,
+		                plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ],
+		                autoSlide: 0,
+		                autoPlayMedia: true,
+		                autoSlideSteps: true,
+		                fragmentInURL: true,
+		                // Add this to ensure proper event handling
+		                embedded: false,
+		                // Add this to ensure proper script loading
+		                dependencies: [
+		                    { src: 'dist/custom_js/decoding-animation.js', type: 'module' },
+		                    { src: 'dist/custom_js/timer.js', type: 'module' }
+		                ]
+		            });
+
+		            // Update footer and remove loading state
+		            updateFooterVisibility(Reveal.getCurrentSlide());
+		            document.querySelector('.reveal').classList.remove('loading');
+		            
+		            // Add slide change listener
+		            Reveal.on('slidechanged', event => {
+		                updateFooterVisibility(event.currentSlide);
+		                // Add closing slide animation handling
+		                if (event.currentSlide.classList.contains('closing-slide')) {
+		                    setTimeout(() => {
+		                        Reveal.nextFragment();
+		                        setTimeout(() => {
+		                            Reveal.nextFragment();
+		                        }, 800);
+		                    }, 400);
+		                }
+		            });
+
+		            // Dispatch an event to notify that Reveal is ready
+		            window.dispatchEvent(new Event('reveal-ready'));
+		        } catch (error) {
+		            console.error('Failed to initialize presentation:', error);
+		            document.querySelector('.reveal').innerHTML = '<div class="error">Failed to load presentation</div>';
+		        }
+		    }
+
+		    // Start initialization
+		    initializePresentation();
+		</script>
+
+	

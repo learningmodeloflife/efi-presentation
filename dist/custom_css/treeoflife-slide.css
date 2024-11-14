@@ -1,0 +1,9 @@
+/**
+ * reveal.js 5.1.0
+ * https://revealjs.com
+ * MIT licensed
+ *
+ * Copyright (C) 2011-2024 Hakim El Hattab, https://hakim.se
+ */
+
+section.treeoflife-slide{height:100%!important;display:flex!important;align-items:center!important}.reveal .treeoflife-slide .image-container{display:flex!important;justify-content:center!important;align-items:center!important;height:100%!important;width:100%!important}.reveal .treeoflife-slide .image{max-width:100%!important;height:auto!important;object-fit:contain!important}section:not(.treeoflife-slide) .image,section:not(.treeoflife-slide) .image-container{all:revert!important}

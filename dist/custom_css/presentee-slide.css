@@ -1,0 +1,9 @@
+/**
+ * reveal.js 5.1.0
+ * https://revealjs.com
+ * MIT licensed
+ *
+ * Copyright (C) 2011-2024 Hakim El Hattab, https://hakim.se
+ */
+
+.reveal section.presentee-slide{height:100%!important;display:flex!important;align-items:center!important;transform:translateY(-8vh)!important}.reveal .presentee-slide .image-container{display:flex!important;justify-content:center!important;gap:4em!important;margin:1em auto!important}.reveal .presentee-slide .circular-image{width:200px!important;height:200px!important;border-radius:50%!important;object-fit:cover!important;filter:grayscale(100%)!important;border:3px solid transparent!important;transition:all .3s ease!important}.reveal .presentee-slide .circular-image:hover{filter:grayscale(0)!important;transform:scale(1.05)!important}.reveal .presentee-slide .presentee-info{text-align:center!important;margin-top:1em!important}.reveal .presentee-slide .presentee-name{font-family:var(--playfair)!important;font-size:1.2rem!important;margin:.5em 0!important}.reveal .presentee-slide .presentee-title{font-family:var(--lato)!important;font-size:1rem!important;color:#666!important;margin:0!important}section:not(.presentee-slide) .circular-image,section:not(.presentee-slide) .image-container,section:not(.presentee-slide) .presentee-info,section:not(.presentee-slide) .presentee-name,section:not(.presentee-slide) .presentee-title{all:revert!important}

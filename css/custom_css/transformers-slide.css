@@ -1,0 +1,65 @@
+.reveal section.transformers-slide {
+    height: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+.reveal .transformers-slide .content-container {
+    display: flex !important;
+    width: 100% !important;
+    height: 90% !important;
+    padding: 20px !important;
+    gap: 20px !important;
+}
+
+.reveal .transformers-slide .image-container {
+    flex: 0 0 45% !important;
+    display: flex !important;
+    justify-content: flex-start !important;
+    align-items: center !important;
+    overflow: visible !important;
+    position: relative !important;
+}
+
+.reveal .transformers-slide .image {
+    max-width: 200% !important;
+    height: auto !important;
+    object-fit: contain !important;
+    margin-left: -50% !important;
+    position: relative !important;
+    z-index: 1 !important;
+}
+
+.reveal .transformers-slide .code-container {
+    flex: 0 0 45% !important;
+    overflow-y: auto !important;
+    border-radius: 5px !important;
+    padding: 15px !important;
+    font-size: 0.35em !important;
+    height: 90% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.reveal .transformers-slide pre {
+    margin: 0 !important;
+    width: 100% !important;
+    max-height: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+.reveal .transformers-slide code {
+    font-family: 'Source Code Pro', monospace !important;
+    display: block !important;
+    white-space: pre !important;
+}
+
+/* Prevent style leakage */
+section:not(.transformers-slide) .content-container,
+section:not(.transformers-slide) .image-container,
+section:not(.transformers-slide) .code-container,
+section:not(.transformers-slide) .image {
+    all: revert !important;
+}

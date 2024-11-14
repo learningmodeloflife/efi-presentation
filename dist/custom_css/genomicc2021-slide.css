@@ -1,0 +1,9 @@
+/**
+ * reveal.js 5.1.0
+ * https://revealjs.com
+ * MIT licensed
+ *
+ * Copyright (C) 2011-2024 Hakim El Hattab, https://hakim.se
+ */
+
+section.genomicc2021-slide{height:100%;display:flex;align-items:center}.reveal .genomicc2021-slide .image-container{display:flex;justify-content:center;align-items:center;height:100%;width:100%;position:relative;overflow:hidden}.reveal .genomicc2021-slide .image{max-width:100%;height:auto;object-fit:contain;transition:transform .8s ease;transform:none}.reveal .genomicc2021-slide .image.fragment{opacity:1}.reveal .genomicc2021-slide .image.fragment.current-fragment{transform-origin:right center;transform:scale(2) translateX(-75%) translateY(-25%)}.reveal .genomicc2021-slide .citation{position:absolute;bottom:20px;right:20px;font-size:.8em;color:#666;font-family:var(--lato)}.reveal .genomicc2021-slide aside.notes{display:block;position:absolute;bottom:calc(var(--controls-offset) + 10px);left:50%;transform:translateX(-50%);padding:0;background:0 0;font-size:.3em;color:#666;font-family:var(--lato);margin:0;text-align:center;z-index:1000;width:auto}section:not(.genomicc2021-slide) .citation,section:not(.genomicc2021-slide) .image,section:not(.genomicc2021-slide) .image-container,section:not(.genomicc2021-slide) aside.notes{all:revert}

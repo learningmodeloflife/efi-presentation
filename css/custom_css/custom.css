@@ -1,0 +1,23 @@
+/* core slides */
+@import url('_variables.css');
+@import url('title-slide.css');
+@import url('intro-slide.css');
+@import url('closing-slide.css');
+@import url('footer.css');
+
+/* optional slides */
+@import url('presentee-slide.css');
+@import url('section-slide.css');
+@import url('singleimage-slide.css');
+@import url('timer-slide.css');
+@import url('quote-slide.css');
+@import url('sequencingcosts-slide.css');
+@import url('sequence-mutation-slide.css');
+@import url('team-slide.css');
+@import url('iframe-slide.css');
+@import url('transformers-slide.css');
+@import url('speech-slide.css');
+@import url('genomics-pipeline-slide.css');
+
+
+
